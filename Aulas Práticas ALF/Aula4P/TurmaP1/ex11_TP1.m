@@ -1,6 +1,6 @@
 clear all
 close all
-N=10; % 30 particulas no total
+N=30; % 30 particulas no total
 %0<=N1<=N são N+1 estados
 % a dimensao da matriz Pi de probabilidades de transição é (N+1)x(N+1)
 %Pi(i,j)= probabilidade de transitar de j para i 
