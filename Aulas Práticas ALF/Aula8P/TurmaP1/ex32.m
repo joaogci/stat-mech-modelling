@@ -1,10 +1,10 @@
 clear all
 close all
 
-nequi=5000; nmedidas=20000;
+nequi=5000; nmedidas=2000;
 nmax=50;
 N=100;
-Ts=linspace(3,300,30);
+Ts=linspace(3,300,5);
 i=0;
 for T=Ts
     i=i+1;
