@@ -1,5 +1,3 @@
-# Geração de tabelas de vizinhos
-
 import numpy as np 
 
 def NN_create_3D(n_max):

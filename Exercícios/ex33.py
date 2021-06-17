@@ -1,15 +1,12 @@
 #!/usr/bin/env python3
 
-# Metropolis para um gás de Bosões em 3D
-
 import numpy as np
 import matplotlib.pyplot as plt
 import time
 from metropolis_quantum_gas import metropolis_3D_boson
-from generate_NN_table import *
 
 if __name__ == '__main__':
-    n_equi = 2000
+    n_equi = 18000
     n_measure = 2000
 
     N = 200

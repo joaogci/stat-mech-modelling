@@ -1,7 +1,6 @@
-# 2D gás de Bosões
-
 import numpy as np
 from generate_NN_table import *
+
 
 def metropolis_2D_boson(T, N, n_max, n_equi, n_measure):
     E_mean = 0

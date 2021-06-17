@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-# Metropolis para um gás de Bosões em 2D
-
 import numpy as np
 import matplotlib.pyplot as plt
 import time
